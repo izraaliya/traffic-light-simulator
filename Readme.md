@@ -1,3 +1,6 @@
+Iam Izra Noor Zahara Aliya have completed the Traffic Light Simulation project as requested. The application has been developed using React and follows the required finite state machine (FSM) structure, including correct state transitions, timing control, pause/resume functionality, and reset behavior.
+
+
 # Traffic Light Simulation
 a simple traffic light UI built by react
 
